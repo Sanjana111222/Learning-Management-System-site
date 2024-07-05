@@ -1,0 +1,25 @@
+NODE_ENV = development
+
+PORT = 5000
+
+MONGO_URI =mongodb://localhost:27017/?directConnection=true
+JWT_SECRET = sanjanagoyal
+JWT_EXPIRY = 7d
+
+CLOUDINARY_CLOUD_NAME = dwlnjqhog
+CLOUDINARY_API_KEY = 423633724114865
+CLOUDINARY_API_SECRET = gsCX3KoTfJ6ATBRPDs8UVrVKWhM
+
+SMTP_HOST = smtp.gmail.com
+SMTP_PORT = 587
+SMTP_USERNAME = goyalsanjana655
+SMTP_PASSWORD = Sanj12345@67
+SMTP_FROM_EMAIL = goyalsanjana655@gmail.com
+
+RAZORPAY_KEY_ID = rzp_test_8Mf32RKd1uTdKZ
+RAZORPAY_SECRET = WP0v7B99aagtCnsbn8pqWDxE
+RAZORPAY_PLAN_ID = <YOUR_RAZORPAY_PLAN_ID>
+
+FRONTEND_URL = https://localhost:3000
+
+CONTACT_US_EMAIL = goyalsanjana655@gmail.com
